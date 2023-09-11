@@ -1,0 +1,35 @@
+<?php
+
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Database\Migrations\Migration;
+
+class CreateProductAttributesTable extends Migration {
+
+	/**
+	 * Run the migrations.
+	 *
+	 * @return void
+	 */
+	public function up()
+	{
+		/*Schema::create('product_attributes', function(Blueprint $table)
+		{
+			$table->increments('id');
+			$table->integer('upi_id');
+			$table->integer('upi_parent_id');
+			$table->text('attribute_value_name');
+			$table->timestamps();
+		});*/
+	}
+
+	/**
+	 * Reverse the migrations.
+	 *
+	 * @return void
+	 */
+	public function down()
+	{
+		/*Schema::drop('product_attributes');*/
+	}
+
+}

@@ -1,0 +1,18 @@
+
+@font-face {
+  font-family: '11528_1556047858';
+  src: url('11528_1556047858.eot');
+  src: url('11528_1556047858.eot?#iefix') format('embedded-opentype'),
+       url('11528_1556047858.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CenturyGothic';
+  src: url('CenturyGothic.svg#CenturyGothic') format('svg'),
+       url('CenturyGothic.ttf') format('truetype'),
+       url('CenturyGothic.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}

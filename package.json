@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "gulp": "^3.0.0",
+    "laravel-elixir": "^5.0.0"
+  },
+  "dependencies": {
+    "notify-send": "^0.1.2"
+  }
+}

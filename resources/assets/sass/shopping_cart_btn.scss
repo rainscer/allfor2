@@ -1,0 +1,26 @@
+#shopping-card-btn a {
+  color: #FFFFFF;
+}
+
+#shopping-card-btn a:hover {
+  color: #FFFFFF;
+}
+
+#shopping-card-btn a:active {
+  color: #FFFFFF;
+}
+
+#shopping-card-btn {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  color: #FFF;
+  background-color: #e75f79;
+  padding: 10px 30px;
+  height: 42px;
+  font-weight: bold;
+  z-index: 202;
+  opacity: 0.9;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+}

@@ -1,0 +1,9 @@
+#header {
+  position: fixed;
+  width: 100%;
+  z-index: 9;
+}
+
+#content {
+  margin-top: 55px;
+}

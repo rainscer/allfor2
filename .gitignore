@@ -1,0 +1,6 @@
+/public/uploads
+/node_modules
+.env
+.idea
+composer.lock
+/vendor/
